@@ -1,0 +1,1 @@
+Permite retroceder y mantener un arreglo de historicos de paginas accedidas en una variable de session
